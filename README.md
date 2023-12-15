@@ -11,4 +11,6 @@ Java 풀스택
 
 Back-end : Java, Spring MVC, Spring Boot, Mysql, Oracle
 Front-end : HTML, CSS, javascript, jQuery
+
+하반기 졸예신분 취업
 ```

@@ -4,6 +4,10 @@
 
 
 ```
+단점을 관리하자
+문제가 있다면 쉽게 처리하고 그 문제를 대수롭지 않게 만들자
+
+커리어
 SI 프로젝트 수행
 Front-end, Back-end
 연구과제(R&D) 수행
@@ -14,6 +18,4 @@ Java 풀스택
 
 Back-end : Java, Spring MVC, Spring Boot, Mysql, Oracle
 Front-end : HTML, CSS, javascript, jQuery
-
-하반기 졸예신분 취업
 ```

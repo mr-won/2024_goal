@@ -1,5 +1,8 @@
 # 2024_goal
 2024_goal
+![Screenshot_20240101_172305_Instagram](https://github.com/mr-won/2024_goal/assets/58906858/31778205-753e-44a1-b3d3-f0600c7f9d23)
+
+
 ```
 SI 프로젝트 수행
 Front-end, Back-end
